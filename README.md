@@ -1,6 +1,6 @@
-# ScrapIt W - Job Search Platform with Web Scraping
+# ScrapIt- Job Search Platform with Web Scraping
 
-> ScrapIt W is a collaborative project developed by Prateek Parmar and Saarthak Verma. The project utilizes React.js, Express, MongoDB, Web-Scraping, and Tailwind CSS to create a dynamic job search platform.
+> ScrapIt is a collaborative project developed by Prateek Parmar and Saarthak Verma. The project utilizes React.js, Express, MongoDB, Web-Scraping, and Tailwind CSS to create a dynamic job search platform.
 
 ## Project Overview
 
