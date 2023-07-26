@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-ScrapIt W is a web application designed to simplify the job search process for users. It incorporates web scraping to extract job listings from popular websites like Naukri.com, providing users with a convenient way to browse through available job openings. The platform also includes features such as estimated salary ranges for positions and periodic email updates containing CSV files describing the available job opportunities.
+ScrapIt is a web application designed to simplify the job search process for users. It incorporates web scraping to extract job listings from popular websites like Naukri.com, providing users with a convenient way to browse through available job openings. The platform also includes features such as estimated salary ranges for positions and periodic email updates containing CSV files describing the available job opportunities.
 
 ## Features
 
@@ -41,23 +41,23 @@ ScrapIt W is a web application designed to simplify the job search process for u
 
 ## How to Use
 
-1. Clone the ScrapIt W repository to your local machine. (Forked from Saavrm26/scrap-it)
+1. Clone the ScrapIt repository to your local machine. (Forked from Saavrm26/scrap-it)
 2. Install the required dependencies for both frontend and backend.
 3. Start the application by running the frontend and backend servers.
 
 ## Contribution
 
-Contributions to ScrapIt W are welcome! Feel free to open issues, submit pull requests, or suggest new features to help improve the platform.
+Contributions to ScrapIt are welcome! Feel free to open issues, submit pull requests, or suggest new features to help improve the platform.
 
 ## Support
 
-For any queries or support related to ScrapIt W, please contact the team members:
+For any queries or support related to ScrapIt, please contact the team members:
 
 - Prateek Parmar (email: prateekparmar2003@gmail.com)
 - Saarthak Verma (email: lci2021035@iiitl.ac.in)
 
 
-Thank you for your interest in ScrapIt W. Happy job hunting!
+Thank you for your interest in ScrapIt. Happy job hunting!
 
 
 Scrapper has been moved to Saavrm26/scrap-it-scrapping Github Repository
